@@ -1,0 +1,1246 @@
+2016-05-18 10:22:40.851 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 10:22:40.857 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:22:40.860 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:22:40.862 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.444 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 10:29:12.451 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.453 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.455 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.510 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.511 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.512 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.569 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.570 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.571 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.625 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.626 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.627 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.681 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.682 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.685 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.741 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.743 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.748 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.804 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.805 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.806 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.861 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.863 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.864 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.919 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.920 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.922 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:12.976 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:12.977 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:12.978 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.033 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.035 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.036 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.089 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.090 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.091 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.147 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.148 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.149 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.208 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.210 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.211 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.264 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.265 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.266 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.320 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.321 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.322 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.376 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.378 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.379 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.433 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.434 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.435 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.487 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.488 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.491 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.546 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.548 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.551 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.605 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.606 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.608 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.663 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.664 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.672 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.732 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.733 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.734 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.787 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.791 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.792 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.846 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.847 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.848 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.901 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.902 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.904 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:13.958 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:13.959 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:13.960 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.015 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.016 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.016 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.069 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.070 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.071 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.123 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.125 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.126 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.187 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.188 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.198 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.255 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.256 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.257 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.310 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.312 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.313 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.370 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.371 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.371 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.426 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.427 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.428 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.483 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.484 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.485 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.543 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.544 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.546 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.600 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.602 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.603 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.661 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.662 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.663 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.719 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.720 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.721 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.773 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.774 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.775 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.832 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.833 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.834 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.887 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.888 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.888 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.941 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.942 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.943 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:14.994 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:14.995 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:14.995 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.048 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.049 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.049 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.102 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.103 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.103 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.155 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.157 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.157 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.210 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.211 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.212 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.266 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.266 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.267 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.319 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.320 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.320 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.373 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.379 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.381 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.447 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.448 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.462 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.515 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.516 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.517 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.570 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.571 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.572 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.624 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.625 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.626 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.678 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.679 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.680 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.823 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.842 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.843 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.895 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.897 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.898 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:15.952 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:15.954 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:15.954 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.007 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.008 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.013 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.068 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.069 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.070 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.128 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.129 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.130 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.183 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.185 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.189 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.243 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.244 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.245 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.297 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.302 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.302 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.355 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.356 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.356 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.409 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.410 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.411 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.464 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.465 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.466 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.520 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.521 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.522 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.575 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.577 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.577 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.632 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.634 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.636 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:16.689 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:16.690 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:16.691 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:29:40.807 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 10:29:40.812 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:29:40.814 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:29:40.816 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:51.152 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 10:31:51.159 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:51.161 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:51.163 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:51.218 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:51.218 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:51.219 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:51.273 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:51.274 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:51.275 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:53.284 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:53.285 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:53.286 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:53.341 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:53.342 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:53.344 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:55.256 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:55.257 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:55.258 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:55.310 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:55.311 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:55.312 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:57.322 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:57.323 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:57.324 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:57.376 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:57.377 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:57.378 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:59.385 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:59.387 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:59.388 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:31:59.440 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:31:59.441 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:31:59.442 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:32:01.399 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:32:01.400 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:32:01.401 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:32:01.503 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:32:01.505 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:32:01.506 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:32:03.417 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:32:03.418 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:32:03.419 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:32:03.572 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:32:03.573 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:32:03.575 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:32:05.480 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:32:05.482 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:32:05.483 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 10:32:05.635 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 10:32:05.637 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 10:32:05.638 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {job: "MySpide.House.SpideLib.CSpide_baixing", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:01:44.625 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:01:44.631 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:01:44.632 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:01:44.634 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:26.374 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:02:26.380 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:26.384 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:26.385 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.404 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.406 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.408 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.471 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.473 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.473 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.580 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.582 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.583 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.586 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.588 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.589 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.644 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.645 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.647 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.719 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.721 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.722 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.776 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.777 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.779 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.833 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.834 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.835 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.888 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.889 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.889 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:31.943 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:31.944 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:31.946 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.001 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.002 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.003 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.055 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.056 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.057 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.109 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.110 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.111 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.163 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.164 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.165 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.219 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.220 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.221 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.274 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.276 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.277 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.333 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.334 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.335 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.389 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.390 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.392 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.444 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.445 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.446 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.498 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.499 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.500 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.554 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.555 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.556 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.610 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.612 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.612 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.666 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.668 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.668 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.721 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.722 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.723 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.775 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.777 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.778 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.834 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.835 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.835 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.889 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.890 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.890 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:32.944 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:32.945 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:32.946 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.001 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.002 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.003 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.057 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.058 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.059 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.112 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.113 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.115 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.169 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.170 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.171 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.224 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.226 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.229 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.284 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.285 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.287 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.343 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.344 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.345 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.399 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.401 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.401 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.457 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.458 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.459 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.511 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.512 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.513 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.565 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.566 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.567 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.622 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.623 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.628 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.681 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.682 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.687 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.742 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.743 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.744 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.796 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.797 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.798 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.850 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.852 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.852 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.904 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.905 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.906 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.910 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.911 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.911 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:33.965 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:33.966 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:33.966 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:34.018 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:34.019 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:34.020 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:34.074 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:34.075 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:34.077 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:34.135 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:34.137 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:34.137 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:02:34.192 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:02:34.193 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:02:34.195 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:04:59.141 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:04:59.148 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:04:59.150 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:04:59.153 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:02.581 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:02.607 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:02.609 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:02.706 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:02.707 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:02.708 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:02.763 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:02.764 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:02.764 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:02.817 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:02.818 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:02.819 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:02.871 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:02.872 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:02.874 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:02.928 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:02.929 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:02.932 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:02.987 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:02.989 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:02.991 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.045 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.046 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.046 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.101 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.102 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.102 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.156 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.157 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.157 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.211 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.212 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.213 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.266 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.267 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.268 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.322 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.323 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.324 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.380 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.381 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.382 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.435 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.436 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.437 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.490 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.491 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.491 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.545 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.546 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.547 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.600 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.601 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.602 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.654 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.655 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.656 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.709 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.711 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.711 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.770 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.771 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.772 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.829 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.832 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.832 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.885 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.886 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.887 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.940 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.942 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.942 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:03.995 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:03.996 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:03.997 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:04.048 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:04.050 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:04.050 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:04.107 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:04.108 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:04.108 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:05:54.650 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:05:54.654 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:05:54.655 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:05:54.657 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:06:11.382 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:06:11.388 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:06:11.390 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:06:11.392 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:06:11.447 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:06:11.448 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:06:11.449 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:06:11.537 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:06:11.539 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:06:11.540 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:06:25.001 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:06:25.011 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:06:25.016 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:06:25.018 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:06:29.271 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:06:29.272 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:06:29.274 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:06:29.326 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:06:29.328 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:06:29.329 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:07:13.249 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:07:13.250 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:07:13.251 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:07:13.314 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:07:13.315 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:07:13.317 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:06.715 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:06.716 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:06.719 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:06.771 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:06.772 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:06.773 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:06.876 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:06.877 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:06.879 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:06.939 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:06.942 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:06.943 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:06.995 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:06.996 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:06.996 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.048 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.049 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.049 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.103 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.105 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.105 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.157 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.158 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.159 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.211 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.212 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.214 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.269 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.270 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.271 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.323 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.324 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.326 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.379 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.380 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.381 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.433 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.434 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.435 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.487 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.488 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.488 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.540 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.541 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.542 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.593 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.594 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.596 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.649 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.650 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.651 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.704 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.706 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.707 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.762 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.763 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.764 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.822 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.829 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.830 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.882 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.883 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.884 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:07.946 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:07.947 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:07.948 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.002 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.003 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.004 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.061 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.064 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.064 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.118 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.119 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.120 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.176 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.178 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.178 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.231 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.232 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.233 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.286 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.287 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.288 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.340 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.341 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.343 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.397 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.398 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.398 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.449 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.450 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.451 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.503 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.504 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.506 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.561 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.562 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.563 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.615 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.617 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.617 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.670 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.671 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.671 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.723 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.724 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.725 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.777 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.778 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.779 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.831 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.832 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.834 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.887 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.888 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.889 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:08.952 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:08.953 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:08.954 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:30.387 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:30.389 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:30.390 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:10:30.442 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:10:30.444 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:10:30.444 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:13:54.936 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:13:54.937 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:13:54.938 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:13:54.991 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:13:54.992 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:13:54.993 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", class: "MyJob1", paras:["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:44.392 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:15:44.397 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:44.398 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:44.400 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:50.711 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:50.714 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:50.715 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:50.779 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:50.780 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:50.781 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:52.885 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:52.886 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:52.887 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:52.940 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:52.941 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:52.942 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:54.896 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:54.897 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:54.898 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:54.955 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:54.956 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:54.957 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:56.912 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:56.913 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:56.915 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:15:56.966 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:15:56.967 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:15:56.968 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:16:40.562 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:16:40.597 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:16:40.599 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:16:40.601 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:16:40.655 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:16:40.658 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:16:40.659 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:16:40.729 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:16:40.731 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:16:40.733 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:16:40.791 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:16:40.792 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:16:40.793 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:16:40.850 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:16:40.851 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:16:40.853 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:17:00.421 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:17:00.426 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:17:00.428 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:17:00.429 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:18:45.738 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:18:45.744 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:18:45.755 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:19:07.973 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:19:07.980 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:19:07.992 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:19:39.805 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:19:39.814 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:19:39.830 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:20:45.909 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:20:45.915 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:20:45.918 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:01.541 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:21:01.547 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:01.549 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.195 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:21:29.202 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.204 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.206 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.262 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.263 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.264 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.322 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.323 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.324 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.381 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.383 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.384 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.440 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.442 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.444 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.500 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.502 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.511 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.569 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.570 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.573 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.631 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.634 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.635 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.696 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.698 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.699 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.752 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.753 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.754 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.806 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.808 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.809 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.863 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.864 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.865 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.918 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.920 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.921 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:29.973 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:29.975 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:29.976 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.030 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.033 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.034 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.091 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.092 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.093 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.146 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.147 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.149 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.205 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.206 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.207 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.260 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.262 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.267 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.326 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.327 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.328 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.383 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.384 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.384 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.442 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.447 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.448 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.511 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.517 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.518 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.573 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.576 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.577 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.636 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.637 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.638 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.690 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.692 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.692 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.745 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.747 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.748 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.802 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.803 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.804 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.863 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.865 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.866 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.919 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.920 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.921 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:30.974 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:30.975 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:30.976 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.035 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.036 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.037 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.098 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.100 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.100 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.155 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.157 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.158 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.215 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.217 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.218 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.272 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.273 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.275 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.326 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.328 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.329 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.390 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.398 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.398 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.452 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.453 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.454 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:21:31.515 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:21:31.522 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:21:31.523 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:12.373 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:22:12.378 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:12.380 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:12.381 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.238 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:22:56.244 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.246 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.248 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.301 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.302 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.304 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.358 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.359 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.359 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.421 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.422 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.423 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.477 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.479 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.480 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.536 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.537 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.540 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.593 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.594 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.595 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.660 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.661 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.663 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.716 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.717 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.718 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.769 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.770 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.771 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.824 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.825 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.826 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.880 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.882 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.884 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.938 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.939 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.941 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:56.995 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:56.996 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:56.997 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.050 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.051 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.052 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.107 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.109 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.110 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.163 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.165 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.166 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.222 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.224 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.226 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.283 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.284 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.285 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.341 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.343 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.343 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.396 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.397 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.399 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.453 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.454 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.455 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.508 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.509 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.510 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.564 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.565 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.566 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.619 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.620 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.621 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.672 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.673 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.674 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.727 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.729 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.732 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.786 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.787 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.788 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.843 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.856 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.859 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.913 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.914 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.914 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:57.968 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:57.969 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:57.969 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:22:58.023 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:22:58.024 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:22:58.025 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 11:23:02.653 INFO [Thread-1][CJobService4Server.java:59] - --- Server Running ---
+2016-05-18 11:23:02.660 INFO [Thread-1][CJobService4Server.java:67] - --- Job Loading ---
+2016-05-18 11:23:02.662 INFO [Thread-1][CJobService4Server.java:83] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 11:23:02.664 INFO [Thread-1][CJobService4Server.java:87] -     Load Job: {path: "D:\R\WebSpide\WebSpideEntry\bin\Example", job: "MyJob1", paras: ["1","江苏省 南京"], url: "http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 12:06:52.076 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 12:06:52.081 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 12:06:52.082 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:08:15.610 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 12:08:15.617 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 12:08:15.619 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:09:15.352 INFO [Thread-1][CJobService4Server.java:64] - --- Server Running ---
+2016-05-18 12:09:15.361 INFO [Thread-1][CJobService4Server.java:72] - --- Job Loading ---
+2016-05-18 12:09:15.363 INFO [Thread-1][CJobService4Server.java:88] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:09:56.547 INFO [Thread-1][CJobService4Server.java:64] - --- Server Running ---
+2016-05-18 12:09:56.552 INFO [Thread-1][CJobService4Server.java:72] - --- Job Loading ---
+2016-05-18 12:09:56.554 INFO [Thread-1][CJobService4Server.java:88] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:10:17.703 INFO [Thread-1][CJobService4Server.java:64] - --- Server Running ---
+2016-05-18 12:10:17.707 INFO [Thread-1][CJobService4Server.java:72] - --- Job Loading ---
+2016-05-18 12:10:17.709 INFO [Thread-1][CJobService4Server.java:88] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:10:51.754 INFO [Thread-1][CJobService4Server.java:64] - --- Server Running ---
+2016-05-18 12:10:51.760 INFO [Thread-1][CJobService4Server.java:72] - --- Job Loading ---
+2016-05-18 12:10:51.762 INFO [Thread-1][CJobService4Server.java:88] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:10:51.893 INFO [Thread-1][CJobService4Server.java:92] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["\"1\"","\"江苏省 南京\""],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 12:11:51.396 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 12:11:51.401 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 12:11:51.404 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:11:51.613 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["\"1\"","\"江苏省 南京\""],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 12:11:57.995 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 12:11:58.002 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 12:11:58.004 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:11:58.120 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["\"1\"","\"江苏省 南京\""],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 12:54:21.171 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 12:54:21.181 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 12:54:21.183 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:54:21.293 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 12:54:32.234 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 12:54:32.244 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 12:54:32.246 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:54:32.344 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 12:54:50.512 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 12:54:50.520 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 12:54:50.524 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 12:54:50.622 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":[""],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:14:53.396 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:14:53.400 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:14:53.402 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:14:53.511 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:15:03.976 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:15:03.981 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:15:03.983 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:15:04.085 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:15:09.672 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:15:09.681 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:15:09.683 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:15:09.794 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:15:26.923 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:15:26.927 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:15:26.929 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:15:27.024 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:15:54.503 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:15:54.512 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:15:54.514 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:15:54.644 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:10.042 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:16:10.050 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:10.052 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:10.149 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:12.388 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:12.398 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:12.400 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:12.495 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:12.496 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:12.501 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:14.607 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:14.608 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:14.609 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:14.662 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:14.668 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:14.669 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:16.627 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:16.630 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:16.635 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:16.739 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:16.740 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:16.742 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:18.649 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:18.650 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:18.651 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:18.754 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:18.755 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:18.756 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:20.660 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:20.661 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:20.662 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:20.778 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:20.779 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:20.780 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:22.651 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:22.652 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:22.653 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:22.756 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:22.757 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:22.759 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:24.666 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:24.667 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:24.668 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:24.820 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:24.821 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:24.823 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:26.730 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:26.731 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:26.732 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:16:26.836 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:16:26.837 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:16:26.840 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:30:35.782 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:30:35.794 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:30:35.796 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:30:35.893 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:31:24.260 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:31:24.267 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:31:24.270 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:31:24.392 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:32:46.694 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:32:46.699 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:32:46.702 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:32:46.801 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:35:22.279 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:35:22.287 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:35:22.289 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:35:22.390 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:35:51.093 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 13:35:51.101 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:35:51.103 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:35:51.204 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:35:54.761 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:35:54.763 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:35:54.764 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:35:54.819 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:35:54.825 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:35:54.826 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:36:32.500 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:36:32.502 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:36:32.503 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:36:32.557 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:36:32.559 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:36:32.563 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:39:02.433 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:39:02.435 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:39:02.438 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:39:02.502 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:39:02.503 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:39:02.505 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:40:03.836 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:40:03.837 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:40:03.838 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 13:40:03.911 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 13:40:03.912 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 13:40:03.915 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 14:29:46.155 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 14:29:46.163 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 14:29:46.165 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 14:29:46.273 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 14:29:46.334 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 14:29:46.336 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 14:29:46.337 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 14:29:46.523 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 14:29:46.524 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 14:29:46.525 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 14:59:06.235 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 14:59:06.241 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 14:59:06.243 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 14:59:06.344 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 14:59:06.404 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 14:59:06.413 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 14:59:06.415 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 14:59:06.486 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 14:59:06.488 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 14:59:06.496 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 15:26:25.238 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 15:26:25.246 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 15:26:25.248 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 15:26:25.346 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:01:25.267 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 16:01:25.273 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:01:25.275 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:01:25.378 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:01:25.458 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:01:25.458 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:01:25.460 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:01:25.606 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:01:25.608 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:01:25.610 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:01:25.669 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:01:25.715 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:01:25.716 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:01:41.612 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 16:01:41.620 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:01:41.622 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:01:41.719 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:02:26.795 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 16:02:26.803 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:02:26.805 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:02:26.930 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:03:44.695 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 16:03:44.703 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:03:44.705 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:03:44.801 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:05:23.039 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 16:05:23.045 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:05:23.047 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:05:23.157 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:05:26.387 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:05:26.388 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:05:26.390 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:05:26.447 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:05:26.448 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:05:26.452 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:06:20.809 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:06:20.811 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:06:20.813 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:06:20.869 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:06:20.871 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:06:20.873 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:06:25.695 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:06:25.696 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:06:25.698 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:06:35.083 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 16:06:35.088 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:06:35.090 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:06:35.222 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:12:05.343 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 16:12:05.353 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:12:05.356 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:12:05.458 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 16:48:48.181 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 16:48:48.186 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 16:48:48.189 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 16:48:48.294 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:21:25.342 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 17:21:25.348 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:21:25.351 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:21:25.452 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:22:19.320 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 17:22:19.328 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:22:19.332 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:22:19.436 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:22:33.030 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 17:22:33.039 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:22:33.043 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:22:33.143 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:30:44.912 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 17:30:44.917 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:30:44.919 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:30:45.022 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:30:45.117 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:30:45.118 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:30:45.119 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:30:45.228 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:30:45.229 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:30:45.236 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:30:58.573 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 17:30:58.582 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:30:58.584 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:30:58.693 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:39:23.778 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 17:39:23.787 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:39:23.790 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:39:23.885 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}
+2016-05-18 17:40:27.134 INFO [Thread-1][CJobService4Server.java:61] - --- Server Running ---
+2016-05-18 17:40:27.141 INFO [Thread-1][CJobService4Server.java:69] - --- Job Loading ---
+2016-05-18 17:40:27.143 INFO [Thread-1][CJobService4Server.java:85] - Loading JobFile: D:\R\WebSpide\sjob\a.sjob
+2016-05-18 17:40:27.253 INFO [Thread-1][CJobService4Server.java:89] -     Load Job: {"path":"D:\\R\\WebSpide\\WebSpideEntry\\bin\\Example","job":"MyJob1","paras":["1","江苏省 南京"],"url":"http://nanjing.baixing.com/ershoufang/"}

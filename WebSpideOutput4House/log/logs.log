@@ -1,0 +1,6 @@
+2016-05-22 21:23:29.869 INFO [main][WebSpideOutput4House.java:30] - WebSpideOutput4House
+2016-05-22 21:24:37.432 INFO [main][WebSpideOutput4House.java:30] - WebSpideOutput4House
+2016-05-22 21:25:19.273 INFO [main][WebSpideOutput4House.java:30] - WebSpideOutput4House
+2016-05-22 21:39:34.997 INFO [main][WebSpideOutput4House.java:86] - WebSpideOutput4House
+2016-05-22 21:39:35.007 ERROR [main][WebSpideOutput4House.java:93] - java.lang.ClassNotFoundException: org.postgresql.Driver
+2016-05-22 21:40:01.317 INFO [main][WebSpideOutput4House.java:86] - WebSpideOutput4House

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -Dlog4j.configurationFile=sync-log4j2.xml -->
+<Configuration status="OFF">
+    <properties>
+        <property name="LOG_HOME">E:\Homework\Ing\WebSpide\WebSpideOutput4House\log</property>
+    </properties>
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%msg%n" />
+		</Console>
+		<RollingFile name="RollingFile" fileName="${LOG_HOME}/logs.log"
+			filePattern="${LOG_HOME}/$${date:yyyyMMdd}/%d{yyyyMMdd}_%i.log" Append="true">
+			<PatternLayout pattern="%date{yyyy-MM-dd HH:mm:ss.SSS} %level [%thread][%file:%line] - %msg%n" />
+			<Policies>
+				<TimeBasedTriggeringPolicy interval="1" modulate="true" />
+				<SizeBasedTriggeringPolicy size="16 MB" />
+			</Policies>
+			<DefaultRolloverStrategy max="999" />
+		</RollingFile>
+
+	</Appenders>
+	<Loggers>
+		<Root level="info"> <!-- trace/debug/info/warn/error/fatal -->
+		 	<AppenderRef ref="Console" /> <!-- 在控制台输出 -->
+			<AppenderRef ref="RollingFile" />
+		</Root>
+	</Loggers>
+</Configuration>
